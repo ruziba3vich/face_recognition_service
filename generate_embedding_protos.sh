@@ -5,7 +5,7 @@ set -e
 
 PROTO_DIR="./"
 
-OUT_DIR="./genprotos"
+OUT_DIR="./"
 
 mkdir -p $OUT_DIR
 
