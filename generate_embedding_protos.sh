@@ -3,7 +3,7 @@
 
 set -e
 
-PROTO_DIR="./protos"
+PROTO_DIR="./"
 
 OUT_DIR="./genprotos"
 
